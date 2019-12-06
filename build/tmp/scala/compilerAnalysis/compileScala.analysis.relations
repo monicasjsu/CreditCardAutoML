@@ -1,0 +1,29 @@
+products:
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/moni_projects/creditcard-autoML/build/classes/scala/main/com/technocrats/datamining/CreditCardData$.class
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/moni_projects/creditcard-autoML/build/classes/scala/main/com/technocrats/datamining/CreditCardData.class
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/moni_projects/creditcard-autoML/build/classes/scala/main/com/technocrats/datamining/CreditCardModel$$typecreator1$1.class
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/moni_projects/creditcard-autoML/build/classes/scala/main/com/technocrats/datamining/CreditCardModel$$typecreator2$1.class
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/moni_projects/creditcard-autoML/build/classes/scala/main/com/technocrats/datamining/CreditCardModel$$typecreator3$1.class
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/moni_projects/creditcard-autoML/build/classes/scala/main/com/technocrats/datamining/CreditCardModel$.class
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/moni_projects/creditcard-autoML/build/classes/scala/main/com/technocrats/datamining/CreditCardModel$delayedInit$body.class
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/moni_projects/creditcard-autoML/build/classes/scala/main/com/technocrats/datamining/CreditCardModel.class
+binary dependencies:
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/.gradle/caches/modules-2/files-2.1/com.salesforce.transmogrifai/transmogrifai-core_2.11/0.5.2/fd751090227f3d6717c887153a62103f132cdfb/transmogrifai-core_2.11-0.5.2.jar
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/.gradle/caches/modules-2/files-2.1/com.salesforce.transmogrifai/transmogrifai-features_2.11/0.5.2/15cce33f839d2833817e1c3e966e7de93dd0a9a5/transmogrifai-features_2.11-0.5.2.jar
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-catalyst_2.11/2.3.2/ff2e744dde9c88ee6af167a0628c334594170bfa/spark-catalyst_2.11-2.3.2.jar
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-core_2.11/2.3.2/2625145fe7d1f749a42a1543cf76b3295f925185/spark-core_2.11-2.3.2.jar
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/.gradle/caches/modules-2/files-2.1/org.apache.spark/spark-sql_2.11/2.3.2/4984320b30e65644b4ca8f174f7d3501d20e464f/spark-sql_2.11-2.3.2.jar
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-reflect/2.11.12/2bb23c13c527566d9828107ca4108be2a2c06f01/scala-reflect-2.11.12.jar
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> /Users/bkumar/projects/jdk-9.0.4.jdk/Contents/Home
+source dependencies:
+external dependencies:
+class names:
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> com.technocrats.datamining.CreditCardData
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> com.technocrats.datamining.CreditCardData$
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> com.technocrats.datamining.CreditCardModel
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> com.technocrats.datamining.CreditCardModel$
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> com.technocrats.datamining.CreditCardModel$$typecreator1$1
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> com.technocrats.datamining.CreditCardModel$$typecreator2$1
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> com.technocrats.datamining.CreditCardModel$$typecreator3$1
+   /Users/bkumar/moni_projects/creditcard-autoML/src/main/scala/com/technocrats/datamining/CreditCardModel.scala -> com.technocrats.datamining.CreditCardModel$delayedInit$body
